@@ -9,4 +9,4 @@ def suma_columnas(nombre_archivo):
                 suma_col[i] += numeros[i]
     return suma_col
 
-print(suma_columnas('datos1.txt'))
+print(suma_columnas('datos1.txt')) #esto es solo una prueba
