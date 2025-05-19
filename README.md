@@ -1,1 +1,1 @@
-# proyectoBD_python
+integrantes: Joaquin Limaco
